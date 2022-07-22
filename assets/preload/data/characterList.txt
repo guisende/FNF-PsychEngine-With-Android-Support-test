@@ -24,3 +24,12 @@ pico-speaker
 bf-holding-gf
 pico-player
 tankman-player
+bf-encore
+bf-pixel-dead
+bf-pixel-sonic
+gf-pixel-sonic
+PixelExe1
+PixelExe2
+pixelrunsonic
+ycr
+ycr-mad
