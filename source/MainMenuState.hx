@@ -126,7 +126,6 @@ class MainMenuState extends MusicBeatState
 
 		
 		var versionShit:FlxText = new FlxText(12, FlxG.height - 60, 0, "FNF you cant run android port by guisende");
-		versionShit.scrollFactor.set();chEngineVersion, 12);
 		versionShit.scrollFactor.set();
 		versionShit.setFormat("VCR OSD Mono", 16, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		add(versionShit);
